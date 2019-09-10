@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Main14Activity"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:layout_gravity="top"
+            android:src="@drawable/imge14"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mis amigos de la prepa Gabriel y Marlon en un lugar llamaod moes  "
+            android:textSize="30dp"
+
+
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Regresar"
+            android:padding="20dp"
+            android:layout_marginLeft="150dp"
+            android:id="@+id/boton14"
+            android:textColor="#fff"
+
+            android:layout_marginTop="20dp"
+
+            />
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>
